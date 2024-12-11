@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (FolderExamSpim.vcxproj, Oblig1Sim.vcxproj, Render4.vcxproj, Render5.vcxproj, Render7.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  test.cpp
+C:\Users\chris\OneDrive\Skrivebord\Fragmon\GameEngineFolderExamBackup\Render4\test.cpp(171,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\OneDrive\Skrivebord\Fragmon\GameEngineFolderExamBackup\Render4\test.cpp(185,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\OneDrive\Skrivebord\Fragmon\GameEngineFolderExamBackup\Render4\test.cpp(196,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\chris\OneDrive\Skrivebord\Fragmon\GameEngineFolderExamBackup\Render4\test.cpp(197,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\chris\OneDrive\Skrivebord\Fragmon\GameEngineFolderExamBackup\Render4\test.cpp(198,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\chris\OneDrive\Skrivebord\Fragmon\GameEngineFolderExamBackup\Render4\test.cpp(201,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\OneDrive\Skrivebord\Fragmon\GameEngineFolderExamBackup\Render4\test.cpp(203,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\OneDrive\Skrivebord\Fragmon\GameEngineFolderExamBackup\Render4\test.cpp(206,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\OneDrive\Skrivebord\Fragmon\GameEngineFolderExamBackup\Render4\test.cpp(207,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\chris\OneDrive\Skrivebord\Fragmon\GameEngineFolderExamBackup\Render4\test.cpp(208,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\OneDrive\Skrivebord\Fragmon\GameEngineFolderExamBackup\Render4\test.cpp(215,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\OneDrive\Skrivebord\Fragmon\GameEngineFolderExamBackup\Render4\test.cpp(241,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chris\OneDrive\Skrivebord\Fragmon\GameEngineFolderExamBackup\Render4\test.cpp(241,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chris\OneDrive\Skrivebord\Fragmon\GameEngineFolderExamBackup\Render4\test.cpp(241,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Render4.vcxproj -> C:\Users\chris\OneDrive\Skrivebord\Fragmon\GameEngineFolderExamBackup\x64\Debug\FolderExamSpimBackup.exe
